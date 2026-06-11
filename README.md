@@ -1,4 +1,5 @@
-# 🧹 Data Cleaning & Preparation Project
+# 🧹 DecodesLab-internship-Project
+##  project-1
 
 ## 📖 Overview
 
@@ -107,6 +108,118 @@ CalculatedTotal = Quantity × UnitPrice
 The dataset was successfully cleaned and prepared for further analysis. Missing values were handled, duplicate records were verified, date formats were corrected, and data consistency checks were performed. The cleaned dataset is now ready for visualization, reporting, and machine learning applications.
 
 ---
+
+# 📊 E-Commerce Sales Data Analysis (EDA)
+## Project-2
+
+## 📌 Project Description
+This project focuses on performing Exploratory Data Analysis (EDA) on an E-Commerce Sales dataset. The goal is to explore the data, identify patterns and trends, detect outliers, and generate meaningful business insights using Python.
+
+---
+
+## 🎯 Objectives
+- Analyze the dataset structure and quality.
+- Calculate descriptive statistics such as mean, median, and count.
+- Identify sales trends and customer behavior.
+- Detect outliers in transaction data.
+- Visualize important patterns through charts and graphs.
+- Summarize key findings for business decision-making.
+
+---
+
+## 🛠️ Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Google Colab / Jupyter Notebook
+
+---
+
+## 📂 Dataset Features
+The dataset contains e-commerce transaction information, including:
+
+- OrderID
+- Date
+- CustomerID
+- Product
+- Quantity
+- UnitPrice
+- PaymentMethod
+- OrderStatus
+- ItemsInCart
+- CouponCode
+- ReferralSource
+- TotalPrice
+
+---
+
+## 🔍 Analysis Performed
+
+### 1. Data Exploration
+- Dataset shape and dimensions
+- Data types inspection
+- Missing value analysis
+
+### 2. Descriptive Statistics
+- Mean
+- Median
+- Count
+- Standard Deviation
+- Minimum & Maximum values
+
+### 3. Product Analysis
+- Most frequently ordered products
+- Product distribution
+
+### 4. Payment Method Analysis
+- Popular payment methods
+- Payment distribution visualization
+
+### 5. Order Status Analysis
+- Delivered, Pending, Returned, and Cancelled orders
+
+
+### 7. Trend Analysis
+- Sales trends over time
+- Average order value analysis
+
+### 8. Outlier Detection
+- Boxplot visualization
+- IQR-based outlier identification
+
+### 9. Correlation Analysis
+- Relationship between numerical features
+- Correlation heatmap
+
+---
+
+## 📈 Visualizations Included
+- Histogram
+- Bar Charts
+- Boxplots
+- Line Charts
+- Correlation Heatmap
+
+---
+
+## 📊 Key Findings
+- The dataset contains valuable information about customer purchasing behavior.
+- Certain products showed higher demand than others.
+- Online payment methods were widely used.
+- Social media sources contributed significantly to customer acquisition.
+- A small number of high-value transactions were identified as outliers.
+- Sales trends provided useful insights into overall business performance.
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/E-Commerce-Sales-EDA.git
 
 ## 👨‍💻 Author
 

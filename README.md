@@ -221,9 +221,96 @@ The dataset contains e-commerce transaction information, including:
 ```bash
 git clone https://github.com/your-username/E-Commerce-Sales-EDA.git
 
+
+# SQL Data Analytics Project
+
+## Project_3 Overview
+
+This project focuses on analyzing an e-commerce dataset using MySQL. Various SQL queries were applied to explore customer purchasing patterns, sales performance, payment methods, and referral sources. The project demonstrates the use of fundamental SQL operations for data analysis.
+
+## Dataset Information
+
+The dataset contains order-related information, including:
+
+* OrderID
+* Date
+* CustomerID
+* Product
+* Quantity
+* UnitPrice
+* ShippingAddress
+* PaymentMethod
+* OrderStatus
+* TrackingNumber
+* ItemsInCart
+* CouponCode
+* ReferralSource
+* TotalPrice
+
+## Objectives
+
+* Explore and analyze sales data using SQL.
+* Perform data filtering and sorting.
+* Generate business insights through aggregation techniques.
+* Understand customer purchasing behavior.
+
+## SQL Concepts Used
+
+### SELECT
+
+Retrieved specific columns and records from the dataset.
+
+### WHERE
+
+Filtered records based on conditions such as payment methods, order status, and sales values.
+
+### ORDER BY
+
+Sorted records in ascending and descending order.
+
+### GROUP BY
+
+Grouped data to analyze trends across categories such as products and payment methods.
+
+### Aggregate Functions
+
+* COUNT() – Total number of orders
+* SUM() – Total revenue and quantity sold
+* AVG() – Average order value and quantity
+
+## Key Analysis Performed
+
+* Total number of orders
+* Total revenue generated
+* Average order value
+* Payment method analysis
+* Product-wise sales analysis
+* Referral source performance
+* Order status distribution
+
+## Results & Insights
+
+* Identified overall sales performance through revenue analysis.
+* Evaluated customer purchasing behavior.
+* Compared payment methods based on usage and revenue contribution.
+* Analyzed referral sources and their impact on sales.
+* Measured average order values to understand spending patterns.
+
+## Tools & Technologies
+
+* MySQL
+* SQL
+* MySQL Workbench
+
+## Conclusion
+
+The dataset was analyzed using SQL queries. Different clauses such as SELECT, WHERE, ORDER BY, and GROUP BY were applied to explore the data. Aggregate functions including COUNT(), SUM(), and AVG() were used to calculate total orders, total revenue, and average order values. The analysis provided valuable insights into customer purchasing behavior, payment methods, referral sources, and overall sales performance.
+
+
+
 ## 👨‍💻 Author
 
 **Atik**  
-Data Analytics Internship Project 1  
+Data Analytics Internship Project 1,2,3  
 DecodeLabs – Batch 2026
 

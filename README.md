@@ -214,14 +214,6 @@ The dataset contains e-commerce transaction information, including:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/E-Commerce-Sales-EDA.git
-
-
 # SQL Data Analytics Project
 
 ## Project_3 Overview
@@ -306,6 +298,12 @@ Grouped data to analyze trends across categories such as products and payment me
 
 The dataset was analyzed using SQL queries. Different clauses such as SELECT, WHERE, ORDER BY, and GROUP BY were applied to explore the data. Aggregate functions including COUNT(), SUM(), and AVG() were used to calculate total orders, total revenue, and average order values. The analysis provided valuable insights into customer purchasing behavior, payment methods, referral sources, and overall sales performance.
 
+## 🚀 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/E-Commerce-Sales-EDA.git
 
 
 ## 👨‍💻 Author

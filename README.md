@@ -1,4 +1,4 @@
-# 🧹 DecodesLab-internship-Project
+# 🧹 DecodesLab-internship-Project-1,2,3
 ##  project-1
 
 ## 📖 Overview
@@ -214,7 +214,7 @@ The dataset contains e-commerce transaction information, including:
 
 ---
 
-# SQL Data Analytics Project
+# SQL Data Analytics Project-3
 
 ## Project_3 Overview
 
